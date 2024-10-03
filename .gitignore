@@ -1,0 +1,5 @@
+#vertual environment
+*.venv
+
+#IDE specific file
+*.vscode
