@@ -1,4 +1,0 @@
-pdf2image==1.17.0
-pytesseract==0.3.13
-poppler==24.07.0
-tyserract==5.4.0
