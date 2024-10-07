@@ -1,5 +1,11 @@
-#vertual environment
+#virtual environment
 *.venv
 
 #IDE specific file
 *.vscode
+
+#dotenv
+*.env
+
+#pycache
+__pycache__
