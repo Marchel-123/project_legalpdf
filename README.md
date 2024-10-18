@@ -12,6 +12,8 @@ https://platform.openai.com/docs/guides/fine-tuning/create-a-fine-tuned-model
 
 ## Process:
 - Install the python libraries which the dependencies found in `requirements.txt` file.
+  ```bash
+  pip install -r requirements.txt
 
 - Using `.env` to store the API key and the fine-tuned model ID.
 
