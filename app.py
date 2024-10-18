@@ -52,7 +52,7 @@ def save_csv(data: list, csv_output_path: str):
         print(f"Creating new CSV file for {data[0]['filename']}")
 
 # Folder Path
-folder_path = 'R'
+folder_path = 'PDF_files'
 csv_output_path = 'extracted_data.csv'
 
 for file_name in os.listdir(folder_path):
