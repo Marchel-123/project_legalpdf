@@ -1,0 +1,4 @@
+openai==0.28.0
+pandas==2.2.3
+python-dotenv==1.0.1
+python_doctr==0.9.0
